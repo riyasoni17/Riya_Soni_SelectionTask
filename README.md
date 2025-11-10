@@ -2,10 +2,13 @@
 
 This repository contains my submission for the Land Cover Classification task using ResNet18.
 
-## Drive link to datasert
-Link- https://drive.google.com/drive/folders/1sqwWhc6LjpW8kB5jMhKEaVtziaLcLSWM?usp=sharing
+## Link to colab notebook 
+**(PLEASE NOTE THAT THE ".ipynb" FILE UPLOADED IN THIS REPOSITORY CAN'T BE SEEN IN GITHUB'S PREVIEW AS IT CONTAINS INTERACTIVE WIDGETS LIKE INTERACTIVE MAPS USING LEAFMAP. THE FILE CAN BE SEEN BY DOWNLOADING IT LOCALLY OR SIMPLY USE THE LINK GIVEN BELOW)**
+Link- https://colab.research.google.com/github/riyasoni17/Riya_Soni_SelectionTask/blob/main/Riya_Soni_SelectionTask.ipynb
 
-## Project Overview
+
+## Drive link to dataset
+Link- https://drive.google.com/drive/folders/1sqwWhc6LjpW8kB5jMhKEaVtziaLcLSWM?usp=sharing
 
 ## Project Overview
 - Trained a CNN (ResNet18) on satellite land cover data.
